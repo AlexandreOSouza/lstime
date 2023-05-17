@@ -1,0 +1,11 @@
+/Users/alexandredeoliveira/Documents/personal_projects/rust/lstime/target/debug/deps/time-a71576a47364cc28.rmeta: /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/lib.rs /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/display.rs /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/duration.rs /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/parse.rs /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/sys.rs
+
+/Users/alexandredeoliveira/Documents/personal_projects/rust/lstime/target/debug/deps/libtime-a71576a47364cc28.rlib: /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/lib.rs /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/display.rs /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/duration.rs /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/parse.rs /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/sys.rs
+
+/Users/alexandredeoliveira/Documents/personal_projects/rust/lstime/target/debug/deps/time-a71576a47364cc28.d: /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/lib.rs /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/display.rs /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/duration.rs /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/parse.rs /Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/sys.rs
+
+/Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/lib.rs:
+/Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/display.rs:
+/Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/duration.rs:
+/Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/parse.rs:
+/Users/alexandredeoliveira/.cargo/registry/src/github.com-1ecc6299db9ec823/time-0.1.45/src/sys.rs:
